@@ -1,6 +1,4 @@
 - 👋 Hi, my name is Jake
-- 👀 I’m interested in data science and cryptocurrencies 
-- 🌱 I’m currently learning how to analyze and display data using Python
 - 📫 You can reach me at jolwig10@gmail.com
 
 <!---
